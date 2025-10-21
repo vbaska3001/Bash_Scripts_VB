@@ -1,6 +1,6 @@
 # VB-Bash_Scripts
 
-This repository contains Bash scripts that I created to practice and showcase my skills in shell scripting.
+This repository contains Bash scripts that I created, used in Linux systems and to showcase my skills in shell scripting.
 Each script was written and tested by me, focusing on simple automation tasks and problem-solving in Linux systems.
 
 # Scripts and Usage:
