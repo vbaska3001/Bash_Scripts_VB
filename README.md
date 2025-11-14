@@ -14,10 +14,12 @@ Each script was written and tested by me, focusing on simple automation tasks an
 - My own logic added for error handling, automation, and user inputs.
 
 # Steps to Run:
+```code
 git clone https://github.com/vbaska3001/VB-Bash_Scripts.git
 cd VB-Bash_Scripts
 chmod +x script_name.sh
 ./script_name.sh or sh script_name.sh
+```
  
 # My Contributions
 - Wrote all the scripts myself.
